@@ -9,7 +9,7 @@
   ];
 
   let tournaments = [
-    { id: 1, name: "Grand Chess Tour 2026", location: "Zagreb", status: "Active", playerIds: [1, 2, 3] },
+    { id: 1, name: "Grand Chess Tour 2026", location: "Zagreb", status: "Active" playerIds: [1, 2, 3] },
     { id: 2, name: "FIDE Candidates", location: "Toronto", status: "Upcoming", playerIds: [1, 4] }
   ];
 
