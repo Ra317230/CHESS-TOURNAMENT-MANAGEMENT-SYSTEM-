@@ -6,7 +6,7 @@
     { id: 3, name: "Fabiano Caruana", elo: 2804, wins: 10, losses: 5 },
     { id: 4, name: "Ding Liren", elo: 2780, wins: 8, losses: 7 },
     { id: 5, name: "Praggnanandhaa R", elo: 2750, wins: 9, losses: 4 }
-  ];
+  ]; 
 
   let tournaments = [
     { id: 1, name: "Grand Chess Tour 2026", location: "Zagreb", status: "Active" playerIds: [1, 2, 3] },
